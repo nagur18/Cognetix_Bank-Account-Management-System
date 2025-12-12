@@ -105,8 +105,11 @@ All invalid inputs show clear error messages and re-prompt user.
 
 ---
 ## 🖼 Screenshots
+### Menu
 ![Menu](menu.png)
+### Create Account
 ![Create Account](CreateAccount.png)
+### Account Details
 ![Account Details](AccountDetails.png)
 
 ## 👨‍💻 Author
