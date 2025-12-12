@@ -105,9 +105,9 @@ All invalid inputs show clear error messages and re-prompt user.
 
 ---
 ## 🖼 Screenshots
-![Menu](docs/screenshots/menu.png)
-![Create Account](docs/screenshots/CreateAccoun.png)
-![Account Details](docs/screenshots/AccountDetails.png)
+![Menu](menu.png)
+![Create Account](CreateAccount.png)
+![Account Details](AccountDetails.png)
 
 ## 👨‍💻 Author
 
